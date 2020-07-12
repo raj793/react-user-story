@@ -1,0 +1,16 @@
+.home-container {
+  justify-content: center;
+  padding: 20px 20px 20px 20px;
+}
+
+.success {
+  background: #45cb85;
+}
+
+.error {
+  background: #fc5130;
+}
+
+.none {
+  background: #000000;
+}

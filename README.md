@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## User Story App in React, Redux, with persistable store using redux-persist
+
+- Token validation or encryption is not supported.
+- Cookie encryption is not supported.
+- Story status is set explicitly while populating the state.
+- Any other unavailable data or instruction is improvised accordingly.
 
 ## Available Scripts
 
