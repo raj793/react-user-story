@@ -1,10 +1,5 @@
 ## User Story App in React, Redux, with persistable store using redux-persist
 
-- Token validation is not supported.
-- Cookie encryption is not supported.
-- Story status is set explicitly while populating the state.
-- Any other unavailable data or instruction is improvised accordingly.
-
 ## Available Scripts
 
 In the project directory, you can run:
